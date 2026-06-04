@@ -1,0 +1,14 @@
+E:\C#\SimpleProject1\SimpleProject1\bin\Debug\net10.0\SimpleProject1.exe
+E:\C#\SimpleProject1\SimpleProject1\bin\Debug\net10.0\SimpleProject1.deps.json
+E:\C#\SimpleProject1\SimpleProject1\bin\Debug\net10.0\SimpleProject1.runtimeconfig.json
+E:\C#\SimpleProject1\SimpleProject1\bin\Debug\net10.0\SimpleProject1.dll
+E:\C#\SimpleProject1\SimpleProject1\bin\Debug\net10.0\SimpleProject1.pdb
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.AssemblyInfoInputs.cache
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.AssemblyInfo.cs
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.csproj.CoreCompileInputs.cache
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.dll
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\refint\SimpleProject1.dll
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.pdb
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\SimpleProject1.genruntimeconfig.cache
+E:\C#\SimpleProject1\SimpleProject1\obj\Debug\net10.0\ref\SimpleProject1.dll

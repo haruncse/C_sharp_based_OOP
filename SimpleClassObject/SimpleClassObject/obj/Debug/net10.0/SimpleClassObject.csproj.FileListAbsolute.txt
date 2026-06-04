@@ -1,0 +1,14 @@
+E:\C#\SimpleClassObject\SimpleClassObject\bin\Debug\net10.0\SimpleClassObject.exe
+E:\C#\SimpleClassObject\SimpleClassObject\bin\Debug\net10.0\SimpleClassObject.deps.json
+E:\C#\SimpleClassObject\SimpleClassObject\bin\Debug\net10.0\SimpleClassObject.runtimeconfig.json
+E:\C#\SimpleClassObject\SimpleClassObject\bin\Debug\net10.0\SimpleClassObject.dll
+E:\C#\SimpleClassObject\SimpleClassObject\bin\Debug\net10.0\SimpleClassObject.pdb
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.AssemblyInfoInputs.cache
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.AssemblyInfo.cs
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.csproj.CoreCompileInputs.cache
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.dll
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\refint\SimpleClassObject.dll
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.pdb
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.genruntimeconfig.cache
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\ref\SimpleClassObject.dll

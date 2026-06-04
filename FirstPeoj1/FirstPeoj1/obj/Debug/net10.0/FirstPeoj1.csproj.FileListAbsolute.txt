@@ -1,0 +1,14 @@
+E:\C#\FirstPeoj1\FirstPeoj1\bin\Debug\net10.0\FirstPeoj1.exe
+E:\C#\FirstPeoj1\FirstPeoj1\bin\Debug\net10.0\FirstPeoj1.deps.json
+E:\C#\FirstPeoj1\FirstPeoj1\bin\Debug\net10.0\FirstPeoj1.runtimeconfig.json
+E:\C#\FirstPeoj1\FirstPeoj1\bin\Debug\net10.0\FirstPeoj1.dll
+E:\C#\FirstPeoj1\FirstPeoj1\bin\Debug\net10.0\FirstPeoj1.pdb
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.AssemblyInfoInputs.cache
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.AssemblyInfo.cs
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.csproj.CoreCompileInputs.cache
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.dll
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\refint\FirstPeoj1.dll
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.pdb
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\FirstPeoj1.genruntimeconfig.cache
+E:\C#\FirstPeoj1\FirstPeoj1\obj\Debug\net10.0\ref\FirstPeoj1.dll

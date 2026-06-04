@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\FirstPeoj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C#\\FirstPeoj1\\FirstPeoj1\\Student.cs",
+              "RelativeDocumentMoniker": "FirstPeoj1\\Student.cs",
+              "ToolTip": "E:\\C#\\FirstPeoj1\\FirstPeoj1\\Student.cs",
+              "RelativeToolTip": "FirstPeoj1\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:33:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\FirstPeoj1\\FirstPeoj1\\Program.cs",
+              "RelativeDocumentMoniker": "FirstPeoj1\\Program.cs",
+              "ToolTip": "E:\\C#\\FirstPeoj1\\FirstPeoj1\\Program.cs",
+              "RelativeToolTip": "FirstPeoj1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:21:58.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

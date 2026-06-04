@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\SimpleProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|e:\\c#\\simpleproject1\\simpleproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|solutionrelative:simpleproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|e:\\c#\\simpleproject1\\simpleproject1\\oopbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|solutionrelative:simpleproject1\\oopbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|e:\\c#\\simpleproject1\\simpleproject1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD97D4AC-2FE8-BC57-F0B2-8DB72DA60F40}|SimpleProject1\\SimpleProject1.csproj|solutionrelative:simpleproject1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C#\\SimpleProject1\\SimpleProject1\\Student.cs",
+              "RelativeDocumentMoniker": "SimpleProject1\\Student.cs",
+              "ToolTip": "E:\\C#\\SimpleProject1\\SimpleProject1\\Student.cs",
+              "RelativeToolTip": "SimpleProject1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:26:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOPBASIC.cs",
+              "DocumentMoniker": "E:\\C#\\SimpleProject1\\SimpleProject1\\OOPBASIC.cs",
+              "RelativeDocumentMoniker": "SimpleProject1\\OOPBASIC.cs",
+              "ToolTip": "E:\\C#\\SimpleProject1\\SimpleProject1\\OOPBASIC.cs",
+              "RelativeToolTip": "SimpleProject1\\OOPBASIC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:56:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\SimpleProject1\\SimpleProject1\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleProject1\\Program.cs",
+              "ToolTip": "E:\\C#\\SimpleProject1\\SimpleProject1\\Program.cs",
+              "RelativeToolTip": "SimpleProject1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:42:04.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
