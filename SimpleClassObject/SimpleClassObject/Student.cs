@@ -12,7 +12,15 @@ public class Student
     public double Grade { get; set; }
 
     // Constructor
-    public Student(string name, int age, string department, double grade)
+    //public Student(string name, int age, string department, double grade)
+    //{
+    //    Name = name;
+    //    Age = age;
+    //    Department = department;
+    //    Grade = grade;
+    //}
+
+    public void setStudentInfo(string name, int age, string department, double grade)
     {
         Name = name;
         Age = age;

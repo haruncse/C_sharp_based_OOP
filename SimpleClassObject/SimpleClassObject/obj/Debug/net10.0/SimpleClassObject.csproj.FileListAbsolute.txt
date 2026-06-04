@@ -12,3 +12,4 @@ E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\refint\SimpleClassOb
 E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.pdb
 E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.genruntimeconfig.cache
 E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\ref\SimpleClassObject.dll
+E:\C#\SimpleClassObject\SimpleClassObject\obj\Debug\net10.0\SimpleClassObject.sourcelink.json
