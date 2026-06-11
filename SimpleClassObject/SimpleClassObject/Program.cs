@@ -7,21 +7,22 @@
         //Student s2 = new Student("BBB", 21, "EEE", 45);
         //Student s3 = new Student("CCC", 23, "BBA", 60);
 
-        Student s1 = new Student();
+        //Student s1 = new Student();
+        //s1.CheckResult();
         //Student s2 = new Student();
         //Student s3 = new Student();
 
         //setStudentInfo
 
-        s1.setStudentInfo("AAA", 22, "CSE", 75);
+        //s1.setStudentInfo("AAA", 22, "CSE", 75);
 
         // Display info
-        s1.DisplayInfo();
+        //s1.DisplayInfo();
         //s2.DisplayInfo();
         //s3.DisplayInfo();
 
         // Check results
-        s1.CheckResult();
+        //s1.CheckResult();
         //s2.CheckResult();
         //s3.CheckResult();
 
@@ -34,5 +35,9 @@
         //avgAge /= students.Count;
         //Console.WriteLine($"Average Age: {avgAge}");
         //Console.ReadLine();
+
+        BankAccount bankAccountClassObj = new BankAccount(2000);
+        bankAccountClassObj.Deposit(500);
+        //Console.WriteLine();
     }
 }

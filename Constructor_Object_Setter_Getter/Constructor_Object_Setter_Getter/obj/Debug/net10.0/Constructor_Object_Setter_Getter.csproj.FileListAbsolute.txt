@@ -1,0 +1,15 @@
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\bin\Debug\net10.0\Constructor_Object_Setter_Getter.exe
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\bin\Debug\net10.0\Constructor_Object_Setter_Getter.deps.json
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\bin\Debug\net10.0\Constructor_Object_Setter_Getter.runtimeconfig.json
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\bin\Debug\net10.0\Constructor_Object_Setter_Getter.dll
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\bin\Debug\net10.0\Constructor_Object_Setter_Getter.pdb
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.AssemblyInfoInputs.cache
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.AssemblyInfo.cs
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.csproj.CoreCompileInputs.cache
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.sourcelink.json
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.dll
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\refint\Constructor_Object_Setter_Getter.dll
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.pdb
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\Constructor_Object_Setter_Getter.genruntimeconfig.cache
+E:\C#\Constructor_Object_Setter_Getter\Constructor_Object_Setter_Getter\obj\Debug\net10.0\ref\Constructor_Object_Setter_Getter.dll

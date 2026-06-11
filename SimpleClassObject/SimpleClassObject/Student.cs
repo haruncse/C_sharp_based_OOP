@@ -42,4 +42,9 @@ public class Student
         else
             Console.WriteLine($"{Name} has failed.");
     }
+
+    private void batch64B()
+    {
+        
+    }
 }
