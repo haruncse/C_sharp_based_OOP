@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\C#\\Constructor_Object_Setter_Getter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C692BA77-EA0C-4320-9487-CE3401FB2254}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|e:\\c#\\constructor_object_setter_getter\\constructor_object_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C692BA77-EA0C-4320-9487-CE3401FB2254}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|solutionrelative:constructor_object_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7769EDA0-066E-38B3-CCA4-031EE3D6011F}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|e:\\c#\\constructor_object_setter_getter\\constructor_object_setter_getter\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7769EDA0-066E-38B3-CCA4-031EE3D6011F}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|solutionrelative:constructor_object_setter_getter\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C692BA77-EA0C-4320-9487-CE3401FB2254}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|e:\\c#\\constructor_object_setter_getter\\constructor_object_setter_getter\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C692BA77-EA0C-4320-9487-CE3401FB2254}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|solutionrelative:constructor_object_setter_getter\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7769EDA0-066E-38B3-CCA4-031EE3D6011F}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|e:\\c#\\constructor_object_setter_getter\\constructor_object_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7769EDA0-066E-38B3-CCA4-031EE3D6011F}|Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter.csproj|solutionrelative:constructor_object_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\C#\\Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter\\Student.cs",
               "RelativeDocumentMoniker": "Constructor_Object_Setter_Getter\\Student.cs",
               "ToolTip": "E:\\C#\\Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter\\Student.cs",
               "RelativeToolTip": "Constructor_Object_Setter_Getter\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T14:24:16.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter\\Program.cs",
               "RelativeDocumentMoniker": "Constructor_Object_Setter_Getter\\Program.cs",
               "ToolTip": "E:\\C#\\Constructor_Object_Setter_Getter\\Constructor_Object_Setter_Getter\\Program.cs",
               "RelativeToolTip": "Constructor_Object_Setter_Getter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T14:23:05.137Z",
               "EditorCaption": ""

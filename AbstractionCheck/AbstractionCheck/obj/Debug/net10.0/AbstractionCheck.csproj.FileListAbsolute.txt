@@ -1,0 +1,15 @@
+E:\C#\AbstractionCheck\AbstractionCheck\bin\Debug\net10.0\AbstractionCheck.exe
+E:\C#\AbstractionCheck\AbstractionCheck\bin\Debug\net10.0\AbstractionCheck.deps.json
+E:\C#\AbstractionCheck\AbstractionCheck\bin\Debug\net10.0\AbstractionCheck.runtimeconfig.json
+E:\C#\AbstractionCheck\AbstractionCheck\bin\Debug\net10.0\AbstractionCheck.dll
+E:\C#\AbstractionCheck\AbstractionCheck\bin\Debug\net10.0\AbstractionCheck.pdb
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.AssemblyInfoInputs.cache
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.AssemblyInfo.cs
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.csproj.CoreCompileInputs.cache
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.sourcelink.json
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.dll
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\refint\AbstractionCheck.dll
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.pdb
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\AbstractionCheck.genruntimeconfig.cache
+E:\C#\AbstractionCheck\AbstractionCheck\obj\Debug\net10.0\ref\AbstractionCheck.dll

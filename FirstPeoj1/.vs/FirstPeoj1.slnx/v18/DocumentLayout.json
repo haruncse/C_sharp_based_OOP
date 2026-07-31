@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\C#\\FirstPeoj1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED4251-EE14-3850-663D-F55404819D69}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED4251-EE14-3850-663D-F55404819D69}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBFCB98F-F32F-459F-A87B-2AC8137C0EFA}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EED4251-EE14-3850-663D-F55404819D69}|FirstPeoj1\\FirstPeoj1.csproj|e:\\c#\\firstpeoj1\\firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED4251-EE14-3850-663D-F55404819D69}|FirstPeoj1\\FirstPeoj1.csproj|solutionrelative:firstpeoj1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "FirstPeoj1\\Student.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T04:33:29.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T04:33:29.843Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "FirstPeoj1\\Program.cs",
               "ToolTip": "E:\\C#\\FirstPeoj1\\FirstPeoj1\\Program.cs",
               "RelativeToolTip": "FirstPeoj1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T04:21:58.85Z",
               "EditorCaption": ""

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\OverRidingOverLoading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|e:\\c#\\overridingoverloading\\overridingoverloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|solutionrelative:overridingoverloading\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|e:\\c#\\overridingoverloading\\overridingoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|solutionrelative:overridingoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|e:\\c#\\overridingoverloading\\overridingoverloading\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|solutionrelative:overridingoverloading\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|e:\\c#\\overridingoverloading\\overridingoverloading\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|solutionrelative:overridingoverloading\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|e:\\c#\\overridingoverloading\\overridingoverloading\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0520-41CC-47A4-BA52-0A8BEAFE8E3F}|OverRidingOverLoading\\OverRidingOverLoading.csproj|solutionrelative:overridingoverloading\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Calculator.cs",
+              "RelativeDocumentMoniker": "OverRidingOverLoading\\Calculator.cs",
+              "ToolTip": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Calculator.cs",
+              "RelativeToolTip": "OverRidingOverLoading\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:35:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OverRidingOverLoading\\Rectangle.cs",
+              "ToolTip": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Rectangle.cs",
+              "RelativeToolTip": "OverRidingOverLoading\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:23:58.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Circle.cs",
+              "RelativeDocumentMoniker": "OverRidingOverLoading\\Circle.cs",
+              "ToolTip": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Circle.cs",
+              "RelativeToolTip": "OverRidingOverLoading\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:21:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Shape.cs",
+              "RelativeDocumentMoniker": "OverRidingOverLoading\\Shape.cs",
+              "ToolTip": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Shape.cs",
+              "RelativeToolTip": "OverRidingOverLoading\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:19:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Program.cs",
+              "RelativeDocumentMoniker": "OverRidingOverLoading\\Program.cs",
+              "ToolTip": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\Program.cs",
+              "RelativeToolTip": "OverRidingOverLoading\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:18:54.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

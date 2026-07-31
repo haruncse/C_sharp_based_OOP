@@ -10,7 +10,5 @@ class Program
         student.Name = "New Name";
         student.Age = 25;
         student.DisplayInfo();
-
-
     }
 }

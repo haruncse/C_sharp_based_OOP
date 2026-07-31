@@ -1,0 +1,15 @@
+E:\C#\InheritenceCheck\InheritenceCheck\bin\Debug\net10.0\InheritenceCheck.exe
+E:\C#\InheritenceCheck\InheritenceCheck\bin\Debug\net10.0\InheritenceCheck.deps.json
+E:\C#\InheritenceCheck\InheritenceCheck\bin\Debug\net10.0\InheritenceCheck.runtimeconfig.json
+E:\C#\InheritenceCheck\InheritenceCheck\bin\Debug\net10.0\InheritenceCheck.dll
+E:\C#\InheritenceCheck\InheritenceCheck\bin\Debug\net10.0\InheritenceCheck.pdb
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.AssemblyInfoInputs.cache
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.AssemblyInfo.cs
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.csproj.CoreCompileInputs.cache
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.sourcelink.json
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.dll
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\refint\InheritenceCheck.dll
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.pdb
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\InheritenceCheck.genruntimeconfig.cache
+E:\C#\InheritenceCheck\InheritenceCheck\obj\Debug\net10.0\ref\InheritenceCheck.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\AbstractionCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|e:\\c#\\abstractioncheck\\abstractioncheck\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|solutionrelative:abstractioncheck\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|e:\\c#\\abstractioncheck\\abstractioncheck\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|solutionrelative:abstractioncheck\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|e:\\c#\\abstractioncheck\\abstractioncheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB90E3FF-7EFA-A68B-02D3-7273073CCAA8}|AbstractionCheck\\AbstractionCheck.csproj|solutionrelative:abstractioncheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractionCheck\\Dog.cs",
+              "ToolTip": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Dog.cs",
+              "RelativeToolTip": "AbstractionCheck\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T04:37:17.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractionCheck\\Animal.cs",
+              "ToolTip": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Animal.cs",
+              "RelativeToolTip": "AbstractionCheck\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T04:37:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionCheck\\Program.cs",
+              "ToolTip": "E:\\C#\\AbstractionCheck\\AbstractionCheck\\Program.cs",
+              "RelativeToolTip": "AbstractionCheck\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T04:36:48.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
