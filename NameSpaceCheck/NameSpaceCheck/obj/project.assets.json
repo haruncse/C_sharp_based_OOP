@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\OverRidingOverLoading.csproj",
-      "projectName": "OverRidingOverLoading",
-      "projectPath": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\OverRidingOverLoading.csproj",
+      "projectUniqueName": "E:\\C#\\NameSpaceCheck\\NameSpaceCheck\\NameSpaceCheck.csproj",
+      "projectName": "NameSpaceCheck",
+      "projectPath": "E:\\C#\\NameSpaceCheck\\NameSpaceCheck\\NameSpaceCheck.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\OverRidingOverLoading\\OverRidingOverLoading\\obj\\",
+      "outputPath": "E:\\C#\\NameSpaceCheck\\NameSpaceCheck\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

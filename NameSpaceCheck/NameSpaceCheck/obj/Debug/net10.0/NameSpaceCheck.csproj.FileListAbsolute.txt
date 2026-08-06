@@ -1,0 +1,15 @@
+E:\C#\NameSpaceCheck\NameSpaceCheck\bin\Debug\net10.0\NameSpaceCheck.exe
+E:\C#\NameSpaceCheck\NameSpaceCheck\bin\Debug\net10.0\NameSpaceCheck.deps.json
+E:\C#\NameSpaceCheck\NameSpaceCheck\bin\Debug\net10.0\NameSpaceCheck.runtimeconfig.json
+E:\C#\NameSpaceCheck\NameSpaceCheck\bin\Debug\net10.0\NameSpaceCheck.dll
+E:\C#\NameSpaceCheck\NameSpaceCheck\bin\Debug\net10.0\NameSpaceCheck.pdb
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.AssemblyInfoInputs.cache
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.AssemblyInfo.cs
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.csproj.CoreCompileInputs.cache
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.sourcelink.json
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.dll
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\refint\NameSpaceCheck.dll
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.pdb
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\NameSpaceCheck.genruntimeconfig.cache
+E:\C#\NameSpaceCheck\NameSpaceCheck\obj\Debug\net10.0\ref\NameSpaceCheck.dll
